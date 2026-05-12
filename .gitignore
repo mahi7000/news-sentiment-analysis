@@ -1,3 +1,5 @@
 venv
 .env
 raw/
+processed/
+*.csv
